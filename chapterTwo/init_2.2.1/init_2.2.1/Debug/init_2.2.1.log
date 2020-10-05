@@ -1,0 +1,5 @@
+﻿  pra2.10.cpp
+  pra2.9.cpp
+  正在生成代码...
+D:\Astudy\CS\cppPrimer\chapterTwo\init_2.2.1\init_2.2.1\pra2.10.cpp(7,6): warning C4101: “local_int”: 未引用的局部变量
+  init_2.2.1.vcxproj -> D:\Astudy\CS\cppPrimer\chapterTwo\init_2.2.1\Debug\init_2.2.1.exe
