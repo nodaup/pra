@@ -1,0 +1,3 @@
+﻿  while5.20.cpp
+D:\Astudy\CS\cppPrimer\chapterFive\while_5.5.1\while_5.5.1\while5.20.cpp(6,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  while_5.5.1.vcxproj -> D:\Astudy\CS\cppPrimer\chapterFive\while_5.5.1\Debug\while_5.5.1.exe
